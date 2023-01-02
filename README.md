@@ -2,7 +2,7 @@
 
 The object is to get a hand with a value as close to 21 as possible without going over.
 
-**Link to project:**
+**Link to project:** https://blackjack-brianbud.netlify.app/
 
 ![blackjack table showing cards and player's game status](./images/blackjack.gif)
 
